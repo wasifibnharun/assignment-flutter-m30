@@ -1,12 +1,12 @@
 {
-    "name": "unit_converter",
-    "short_name": "unit_converter",
+    "name": "Unit Converter",
+    "short_name": "Convert",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "background_color": "#0A0A0F",
+    "theme_color": "#0A0A0F",
+    "description": "Convert length, weight, and temperature instantly.",
+    "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
         {
